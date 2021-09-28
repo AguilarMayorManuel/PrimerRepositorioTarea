@@ -7,3 +7,7 @@ En Windows PowerShell escribo el comando "git commit -m "Creo el repositorio"
 En Windows PowerShell escribo el comando "git branch -M main"
 En Windows PowerShell escribo el comando "git remote add origin https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git
 En Windows PowerShell escribo el comando "git push -u origin main"
+
+Cambio a mi ordenador de sobremesa, para ello copio la dirección URL del repositorio remoto y en Windows PowerShell escribo el comando "git clone https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git"
+Escribo esta información en este documento y luego escribo el comando "git add ."
+Finalmente escribo el comando "git push -u origin main"  
