@@ -2,3 +2,8 @@ Creo la carpeta PrimerRepositorioTarea, dentro de esta creo la carpeta "doc", la
 Dentro de la carpeta "src" creo un documento de texto "info.txt"
 Abro Windows PowerShell y cambio la dirección a la ubicación donde se encuentra el directorio del proyecto
 En Windows PowerShell escribo el comando "git init"
+En Windows PowerShell escribo el comando "git add ."
+En Windows PowerShell escribo el comando "git commit -m "Creo el repositorio"
+En Windows PowerShell escribo el comando "git branch -M main"
+En Windows PowerShell escribo el comando "git remote add origin https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git
+En Windows PowerShell escribo el comando "git push -u origin main"
