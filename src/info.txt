@@ -1,0 +1,4 @@
+Creo la carpeta PrimerRepositorioTarea, dentro de esta creo la carpeta "doc", la carpeta "src" y un documento de texto formato README.md
+Dentro de la carpeta "src" creo un documento de texto "info.txt"
+Abro Windows PowerShell y cambio la dirección a la ubicación donde se encuentra el directorio del proyecto
+En Windows PowerShell escribo el comando "git init"
