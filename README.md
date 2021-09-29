@@ -1,4 +1,4 @@
-###### **Manuel Aguilar Mayor** ######
+ **Manuel Aguilar Mayor** 
 
 <h1>**Mi primer repositorio en GitHub**</h1>
 
