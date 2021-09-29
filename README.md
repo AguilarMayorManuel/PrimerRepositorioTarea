@@ -1,6 +1,6 @@
  **Manuel Aguilar Mayor** 
 
-<h1>**Mi primer repositorio en GitHub**</h1>
+<h1>Mi primer repositorio en GitHub</h1>
 
 Hola, mi nombre es Manuel y este proyecto es una tarea que consiste en hacer un repositorio, local y remoto, para el módulo de gestión de bases de datos de mi curso 1º de ASIR "A".
 
