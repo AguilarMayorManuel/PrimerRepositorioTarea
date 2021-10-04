@@ -1,4 +1,4 @@
-<h5>Manuel Aguilar Mayor</h5>                        <img src="logoreadme.png" alt="GitHub"/>
+<h5>Manuel Aguilar Mayor</h5>                        
 
 <h2>Mi primer repositorio en GitHub</h2>
 
