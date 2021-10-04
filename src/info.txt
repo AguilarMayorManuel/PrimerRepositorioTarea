@@ -1,13 +1,20 @@
 Creo la carpeta PrimerRepositorioTarea, dentro de esta creo la carpeta "doc", la carpeta "src" y un documento de texto formato README.md
 Dentro de la carpeta "src" creo un documento de texto "info.txt"
-Abro Windows PowerShell y cambio la dirección a la ubicación donde se encuentra el directorio del proyecto
-En Windows PowerShell escribo el comando "git init"
-En Windows PowerShell escribo el comando "git add ."
-En Windows PowerShell escribo el comando "git commit -m "Creo el repositorio"
-En Windows PowerShell escribo el comando "git branch -M main"
-En Windows PowerShell escribo el comando "git remote add origin https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git
-En Windows PowerShell escribo el comando "git push -u origin main"
+Abro Windows PowerShell y cambio la dirección a la ubicación donde se encuentra el directorio del proyecto, luego escribo esta serie de comandos:
+git init
+git add .
+git commit -m "Creo el repositorio"
+git branch -M main
+git remote add origin https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git
+git push -u origin main
 
-Cambio a mi ordenador de sobremesa, para ello copio la dirección URL del repositorio remoto y en Windows PowerShell escribo el comando "git clone https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git"
-Escribo esta información en este documento y luego escribo el comando "git add ."
-Finalmente escribo el comando "git push -u origin main"  
+La primera vez que accedes al repositorio te piden que te identifiques, entonces debemos ejecutar la siguiente serie de comandos:
+git config --global user.email "tu@correo.com"
+git config --global user.name "tunombre"
+
+Cuando haces git push deberás identificarte con el navegador
+
+Cambio a mi ordenador de sobremesa, para ello copio la dirección URL del repositorio remoto y en Windows PowerShell escribo el comando git clone https://github.com/AguilarMayorManuel/PrimerRepositorioTarea.git
+Para actualizar información del repositorio escribo el comando git add .
+Luego escribo el comando git commit -m "...."
+Finalmente escribo el comando git push -u origin main  
